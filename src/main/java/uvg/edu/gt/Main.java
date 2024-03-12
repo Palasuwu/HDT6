@@ -49,13 +49,24 @@ public class Main {
                     mostrarColeccionUsuario(cardCollection);
                     break;
                 case 4:
-                    mostrarColeccionUsuarioOrdenada(cardCollection); // These methods were missing
+                    mostrarColeccionUsuarioOrdenada(cardCollection);
                     break;
                 case 5:
-                    mostrarTodasCartas(cardCollection); // and needed to be included here
+                    long initTime = System.nanoTime();
+
+                    mostrarTodasCartas(cardCollection);
+                    long finishTime = System.nanoTime();
+                    long elapsedTime = finishTime - initTime;
+                    System.out.println("Tiempo de ejecución: " + elapsedTime + " nanosegundos");
+
                     break;
                 case 6:
-                    mostrarTodasCartasOrdenadas(cardCollection); // for the switch statement to work
+                    initTime = System.nanoTime();
+                    mostrarTodasCartasOrdenadas(cardCollection);
+                    finishTime = System.nanoTime();
+                    elapsedTime = finishTime - initTime;
+                    System.out.println("Tiempo de ejecución: " + elapsedTime + " nanosegundos");
+
                     break;
                 case 7:
                     System.out.println("Saliendo...");

@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fc824e7-c989-4136-a8c6-b6e8345a8359" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uvg/edu/gt/AppTest.java" afterDir="false" />
+    <list default="true" id="2fc824e7-c989-4136-a8c6-b6e8345a8359" name="Changes" comment="1er commit , antes de la medicion de tiempo">
+      <change beforePath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +69,25 @@
       <option name="presentableId" value="Default" />
       <updated>1710211545662</updated>
       <workItem from="1710211546841" duration="1458000" />
-      <workItem from="1710213591393" duration="5375000" />
+      <workItem from="1710213591393" duration="6258000" />
     </task>
+    <task id="LOCAL-00001" summary="1er commit , antes de la medicion de tiempo">
+      <option name="closed" value="true" />
+      <created>1710219237635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710219237635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1er commit , antes de la medicion de tiempo" />
+    <option name="LAST_COMMIT_MESSAGE" value="1er commit , antes de la medicion de tiempo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -90,6 +95,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
