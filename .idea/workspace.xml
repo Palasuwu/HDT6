@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fc824e7-c989-4136-a8c6-b6e8345a8359" name="Changes" comment="1er commit , antes de la medicion de tiempo">
-      <change beforePath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Main.java" afterDir="false" />
+    <list default="true" id="2fc824e7-c989-4136-a8c6-b6e8345a8359" name="Changes" comment="2ndo , Medicion de tiempo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710211545662</updated>
       <workItem from="1710211546841" duration="1458000" />
-      <workItem from="1710213591393" duration="6258000" />
+      <workItem from="1710213591393" duration="6894000" />
     </task>
     <task id="LOCAL-00001" summary="1er commit , antes de la medicion de tiempo">
       <option name="closed" value="true" />
@@ -79,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710219237635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2ndo , Medicion de tiempo">
+      <option name="closed" value="true" />
+      <created>1710220147117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710220147117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1er commit , antes de la medicion de tiempo" />
-    <option name="LAST_COMMIT_MESSAGE" value="1er commit , antes de la medicion de tiempo" />
+    <MESSAGE value="2ndo , Medicion de tiempo" />
+    <option name="LAST_COMMIT_MESSAGE" value="2ndo , Medicion de tiempo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
